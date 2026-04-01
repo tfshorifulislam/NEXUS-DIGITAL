@@ -12,9 +12,9 @@ body {
 
 @keyframes pulse-size {
   0%, 100% {
-    transform: scale(1);
+    transform: translateY(0);
   }
   50% {
-    transform: scale(1.1);
+    transform: translateY(-20px);
   }
 }

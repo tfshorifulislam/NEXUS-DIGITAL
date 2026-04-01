@@ -9,7 +9,7 @@ const BannerSection = () => {
                         <span className='text-[#2664eb]'>Scale Your Business with</span> Smart Design.
                     </h1>
                     <p className='text-center md:text-start text-lg md:text-xl md:text-2xl lg:leading-10 '>
-                        We help entrepreneurs and brands achieve extraordinary  growth by harnessing the power of modern web technologies and world-class UI/UX design.
+                        We help entrepreneurs and brands grow through modern web technology and world-class UI/UX.
                     </p>
                 </div>
                 <div className='flex  items-center justify-center lg:justify-start gap-5 lg:gap-9'>
