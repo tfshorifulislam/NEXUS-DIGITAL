@@ -5,3 +5,16 @@
 body {
     font-family: "Inter", sans-serif;
 }
+
+.pulsing-logo {
+  animation: pulse-size 3s ease-in-out infinite;
+}
+
+@keyframes pulse-size {
+  0%, 100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+}
