@@ -3,7 +3,7 @@ import logo from '../../assets/🚀 Ready to elevate your career in tech_ Join S
 const BannerSection = () => {
     return (
 
-        <div className='absolute top-15 right-0 left-0'>
+        <div className=''>
             <div className='flex flex-col-reverse lg:flex-row justify-between items-center mx-auto w-10/12 gap-10 mt-7 lg:mt-30'>
                 <div className='space-y-5 lg:space-y-10'>
                     <div className='space-y-4  max-w-2xl'>
