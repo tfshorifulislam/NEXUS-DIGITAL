@@ -4,7 +4,7 @@ const NavBar = () => {
     return (
         <div className='flex  justify-between items-center w-11/12 mt-5 md:mt-8 mx-auto'>
             <div className=''>
-                <h1 className='text-[#1e293b] text-lg lg:text-xl flex flex-col sm:flex-row'><span className='text-[#2664eb] font-bold text-2xl lg:text-4xl'>NEXUS</span>DIGITAL</h1>
+                <h1 className='text-[#1e293b] text-lg lg:text-xl flex flex-col sm:flex-row items-baseline'><span className='text-[#2664eb] font-bold text-2xl lg:text-4xl'>NEXUS</span>DIGITAL</h1>
             </div>
             <div className='hidden md:flex'>
                 <ul className='flex gap-10'>
